@@ -1,0 +1,28 @@
+name: 'Fielden & Co'
+favicon: null
+layout_spectrum: 0.7225709443446249
+typography_spectrum: 0.9362409440800548
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4891519870143384
+  lightness: 0.6501197379548103
+  saturation: 0.725460805464536
+  rhythmicContrast: 0.017260678578168154
+purpose: []
